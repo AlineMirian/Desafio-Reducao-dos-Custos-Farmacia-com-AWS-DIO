@@ -1,9 +1,9 @@
 # Desafio-Reducao-dos-Custos-Farmacia-com-AWS-DIO
-Nesse repositório está minha resolução para o Desafio de projeto: Redução dos Custos em Farmácias com AWS, do Bootcamp com a Accenture da DIO.
+Nesse repositório está a minha resolução para o Desafio de projeto: Redução dos Custos em Farmácias com AWS, do Bootcamp com a Accenture da DIO.
 
 # Redução de Custos em Farmácias com AWS
 
-Esse projeto foi desenvolvido como parte de um desafio da DIO com o objetivo de demonstrar como soluções em nuvem podem ser utilizadas para otimizar custos operacionais no setor farmacêutico.
+Esse projeto foi desenvolvido como parte de um desafio da DIO com objetivo de demonstrar como soluções em nuvem podem ser utilizadas para otimizar custos operacionais no setor farmacêutico.
 
 A proposta do desafio consiste em analisar um cenário fictício de uma rede de farmácias e sugerir melhorias utilizando serviços da AWS para reduzir custos de infraestrutura, aumentar a eficiência operacional e melhorar a escalabilidade dos sistemas.
 
@@ -27,42 +27,42 @@ A proposta do desafio consiste em analisar um cenário fictício de uma rede de 
 
 # Modelo de relatório
 
-# RELATÃ“RIO DE IMPLEMENTAÃ‡ÃƒO DE SERVIÃ‡OS AWS
+# RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: [data de inÃ­cio do projeto]
+Data: [data de início do projeto]
 Empresa: Abstergo Industries 
-ResponsÃ¡vel: [nome do responsÃ¡vel pelo projeto]
+Responsável: [nome do responsável pelo projeto]
 
-## IntroduÃ§Ã£o
-Este relatÃ³rio apresenta o processo de implementaÃ§Ã£o de ferramentas na empresa [nome da empresa], realizado por [nome do responsÃ¡vel pelo projeto]. O objetivo do projeto foi elencar 3 serviÃ§os AWS, com a finalidade de realizar diminuiÃ§Ã£o de custos imediatos.
+## Introdução
+Este relatório apresenta o processo de implementaÃ§Ã£o de ferramentas na empresa [nome da empresa], realizado por [nome do responsável pelo projeto]. O objetivo do projeto foi elencar 3 serviços AWS, com finalidade de realizar diminuição de custos imediatos.
 
-## DescriÃ§Ã£o do Projeto
-O projeto de implementaÃ§Ã£o de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos especÃ­ficos. A seguir, serÃ£o descritas as etapas do projeto:
+## Descrição do Projeto
+O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com os seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
 
 Etapa 1: 
 - [Nome da ferramenta]
 - [Foco da ferramenta]
-- [DescriÃ§Ã£o de caso de uso]
+- [Descrição de caso de uso]
 
 Etapa 2: 
 - [Nome da ferramenta]
 - [Foco da ferramenta]
-- [DescriÃ§Ã£o de caso de uso]
+- [Descrição de caso de uso]
 
 Etapa 3: 
 - [Nome da ferramenta]
 - [Foco da ferramenta]
-- [DescriÃ§Ã£o de caso de uso]
+- [Descrição de caso de uso]
 
 
 
-## ConclusÃ£o
-A implementaÃ§Ã£o de ferramentas na empresa *[nome da empresa] tem como esperado [benefÃ­cios das ferramentas]*, o que aumentarÃ¡ a eficiÃªncia e a produtividade da empresa. Recomenda-se a continuidade da utilizaÃ§Ã£o das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+## Conclusão
+A implementação de ferramentas na empresa *[nome da empresa] tem como esperado [benefícios das ferramentas]*, o que aumentaria a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
 
 [lista de anexos, como manuais, documentos, planilhas, entre outros]
 
-Assinatura do ResponsÃ¡vel pelo Projeto:
+Assinatura do Responsável pelo Projeto:
 
-[Nome do ResponsÃ¡vel pelo Projeto]
+[Nome do Responsável pelo Projeto]
